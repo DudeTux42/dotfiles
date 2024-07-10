@@ -1,0 +1,14 @@
+2024/07/08-15:33:07.812 e09d Reusing MANIFEST /home/ll/.config/BraveSoftware/Brave-Browser-Nightly/Default/IndexedDB/https_codeium.com_0.indexeddb.leveldb/MANIFEST-000001
+2024/07/08-15:33:07.812 e09d Recovering log #46
+2024/07/08-15:33:07.813 e09d Reusing old log /home/ll/.config/BraveSoftware/Brave-Browser-Nightly/Default/IndexedDB/https_codeium.com_0.indexeddb.leveldb/000046.log 
+2024/07/08-15:33:07.813 e09d Delete type=2 #45
+2024/07/08-15:33:07.874 e09b Level-0 table #51: started
+2024/07/08-15:33:07.909 e09b Level-0 table #51: 6755 bytes OK
+2024/07/08-15:33:07.919 e09b Delete type=0 #46
+2024/07/08-15:33:07.927 e09b Manual compaction at level-0 from '\x00\x11\x00\x00\x00' @ 72057594037927935 : 1 .. '\x00\x12\x00\x00\x00' @ 0 : 0; will stop at '\x00\x11\x00\x00\x05' @ 850 : 1
+2024/07/08-15:33:07.928 e09b Compacting 1@0 + 1@1 files
+2024/07/08-15:33:07.935 e09b Generated table #52@0: 195 keys, 5249 bytes
+2024/07/08-15:33:07.936 e09b Compacted 1@0 + 1@1 files => 5249 bytes
+2024/07/08-15:33:07.944 e09b compacted to: files[ 0 1 1 0 0 0 0 ]
+2024/07/08-15:33:07.945 e09b Delete type=2 #51
+2024/07/08-15:33:07.946 e09d Manual compaction at level-0 from '\x00\x11\x00\x00\x05' @ 850 : 1 .. '\x00\x12\x00\x00\x00' @ 0 : 0; will stop at (end)

@@ -1,0 +1,10 @@
+2024/07/08-07:25:20.375 8edd Creating DB /home/ll/.config/BraveSoftware/Brave-Browser-Nightly/Default/IndexedDB/https_wokwi.com_0.indexeddb.leveldb since it was missing.
+2024/07/08-07:25:20.399 8edd Reusing MANIFEST /home/ll/.config/BraveSoftware/Brave-Browser-Nightly/Default/IndexedDB/https_wokwi.com_0.indexeddb.leveldb/MANIFEST-000001
+2024/07/08-07:25:20.564 8ef6 Level-0 table #5: started
+2024/07/08-07:25:20.571 8ef6 Level-0 table #5: 1263 bytes OK
+2024/07/08-07:25:20.586 8ef6 Delete type=0 #3
+2024/07/08-07:25:20.587 8ede Manual compaction at level-0 from '\x00\x01\x00\x00\x00' @ 72057594037927935 : 1 .. '\x00\x02\x00\x00\x00' @ 0 : 0; will stop at (end)
+2024/07/08-07:26:19.774 8ef7 Level-0 table #7: started
+2024/07/08-07:26:19.786 8ef7 Level-0 table #7: 5192 bytes OK
+2024/07/08-07:26:19.795 8ef7 Delete type=0 #4
+2024/07/08-07:26:19.795 8ef5 Manual compaction at level-0 from '\x00\x04\x00\x00\x00' @ 72057594037927935 : 1 .. '\x00\x05\x00\x00\x00' @ 0 : 0; will stop at (end)

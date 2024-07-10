@@ -1,0 +1,6 @@
+2024/06/27-13:49:15.939 874 Creating DB /home/ll/.config/BraveSoftware/Brave-Browser-Nightly/Default/IndexedDB/https_www.reddit.com_0.indexeddb.leveldb since it was missing.
+2024/06/27-13:49:15.965 874 Reusing MANIFEST /home/ll/.config/BraveSoftware/Brave-Browser-Nightly/Default/IndexedDB/https_www.reddit.com_0.indexeddb.leveldb/MANIFEST-000001
+2024/06/27-13:49:47.946 873 Level-0 table #5: started
+2024/06/27-13:49:47.949 873 Level-0 table #5: 1434 bytes OK
+2024/06/27-13:49:47.955 873 Delete type=0 #3
+2024/06/27-13:49:47.956 873 Manual compaction at level-0 from (begin) .. (end); will stop at (end)
